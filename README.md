@@ -59,13 +59,13 @@
 ## 🌐 Redes sociais
 
 <div> 
-  <a href="https://instagram.com/seu-user" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="www.linkedin.com/in/mateus-mancio-7b0011295" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mateusmancio12@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -74,7 +74,7 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mateuslameida1/mateusalmeida1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
