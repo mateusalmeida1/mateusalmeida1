@@ -5,28 +5,38 @@
 ## 👋 Olá! Eu sou o Mateus Almeida
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFB2&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+evolução;Apaixonado+por+tecnologia;Sempre+aprendendo+coisas+novas">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFB2&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+evolução;Focado+em+tecnologia+e+inovação;Sempre+aprendendo+algo+novo;Bem-vindo+ao+meu+GitHub!">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mateusalmeida1&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
 
 ## 🚀 Sobre mim
+
 💻 Desenvolvedor em evolução  
 📚 Estudando programação e Salesforce  
-🎯 Focado em crescer na área de tecnologia  
+🔥 Evoluindo todos os dias  
+🎯 Foco em me tornar um dev de alto nível  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusalmeida1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalmeida1&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateusalmeida1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalmeida1&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🔥 Streak de contribuições
+## 🔥 Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mateusalmeida1&theme=tokyonight&hide_border=true"/>
@@ -34,41 +44,35 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Tecnologias
 
-<div style="display: inline_block"><br>
+<div align="center">
 
-<img align="center" alt="JS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="TS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-<img align="center" alt="React" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="HTML" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Python" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="Java" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-<img align="center" alt="MySQL" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,java,mysql&theme=dark" />
 
 </div>
 
 ---
 
-## 🌐 Redes sociais
+## ⚡ Atividade
 
-<div> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusalmeida1&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+## 🎧 Tocando agora no Spotify
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=novatorem"/>
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center"> 
   <a href="https://www.linkedin.com/in/mateus-mancio-7b0011295" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -85,10 +89,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 
 ---
 
-## 👀 Contador de visitas
+## 👀 Visitas
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mateusalmeida1&color=green)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusalmeida1&color=00FFB2"/>
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+<div align="center">
+
+💬 *"Disciplina > motivação."*
+
+</div>
