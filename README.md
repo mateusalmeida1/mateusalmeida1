@@ -2,27 +2,21 @@
 
 **`Desenvolvedor FullStack`**
 
-💻 Desenvolvedor em evolução  
-🚀 Focado em aprender e crescer na área de tecnologia  
-📍 Brasil  
+---
+
+<div align="center">
+  <a href="https://github.com/mateusalmeida1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusalmeida1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalmeida1&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudando programação e desenvolvimento
-- 💡 Interessado em: Front-end, Back-end e Salesforce
-- 📚 Sempre aprendendo algo novo
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+💻 Desenvolvedor em evolução  
+📚 Estudando programação e Salesforce  
+🎯 Focado em crescer na área de tecnologia  
 
 ---
 
@@ -59,22 +53,33 @@
 ## 🌐 Redes sociais
 
 <div> 
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="www.linkedin.com/in/mateus-mancio-7b0011295" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-mancio-7b0011295" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mateusmancio12@gmail.com">
+  <a href="mailto:mateusmancio12@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
 ---
 
+## ✨ Animação de digitação
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFB2&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+evolução;Apaixonado+por+tecnologia;Sempre+aprendendo+coisas+novas">
+</div>
+
+---
+
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/mateuslameida1/mateusalmeida1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mateusalmeida1/mateusalmeida1/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Contador de visitas
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mateusalmeida1&color=green)
 
 ---
 
