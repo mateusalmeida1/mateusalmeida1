@@ -13,8 +13,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateusalmeida1"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusalmeida1&show_icons=true&theme=tokyonight"/>
 
 ---
 
